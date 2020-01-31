@@ -10,11 +10,11 @@ The main purpose of this repository is to help other developers in the epic ques
   - The `NodeJs server <-> Front-end` integration;
   - The use of the `SuperAgent` library;
   - The integration with the Mailchimp API via the `Mailchimp API Key`;
-  
+
   <h3 align="center">How to run this code</h3>
-  
-  
-  
+
+
+
   It isn't hard to run this code, all you need to follow simple steps that will be showed now:
   - Run `npm i` to install all the dependencies;
   - Go to your Mailchimp account and get your `API key`, if you don't have one, you can easily generate clicking on the button 'generate API key';
