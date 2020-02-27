@@ -22,4 +22,4 @@ The main purpose of this repository is to help other developers in the epic ques
     - ```const mailchimpInstance   = 'us4',
       listUniqueId        = 'afdd076d72',
       mailchimpApiKey     = 'b5245e6c5a83c55ca5667528b420c8dc-us4';
-  - Then, you run the code, teste, understand it and be happy :D.
+  - Then, you run the code, test, understand it and be happy :D.
